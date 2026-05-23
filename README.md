@@ -1,6 +1,6 @@
-# Synthetic Control from Scratch – California Smoking Ban
+# Synthetic Control – California Smoking Ban
 
-Estimates the causal effect of California's Proposition 99 (1988 tobacco tax and control program) on cigarette sales using **Synthetic Control Method** implemented entirely from scratch in R.
+Estimates the causal effect of California's Proposition 99 (1988 tobacco tax and control program) on cigarette sales using **Synthetic Control Method** implemented in R.
 
 ## Methods
 - Quadratic programming with non‑negativity constraints and sum‑to‑one weights
